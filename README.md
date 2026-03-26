@@ -29,9 +29,7 @@ A modern, futuristic landing page for a robotics and AI company. Features a 3D i
 
 ## Live Demo
 
-*(Enable GitHub Pages in the repository settings to host this site live.)*  
-Once enabled, it will be available at:  
-`https://rohmanadeem.github.io/cyberbots/`
+ https://rohmanadeem.github.io/cyberbots/
 
 ## Project Structure
 
