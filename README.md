@@ -1,35 +1,56 @@
-# Responsive Hero Website 🚀
+# CyberBots – Advanced Robotics & AI Solutions
 
-This is a **responsive hero section website** I created as part of my web designing practice. It features a dark-themed header, a modern hero layout, and a 3D Spline animation.
+A modern, futuristic landing page for a robotics and AI company. Features a 3D interactive robot model, responsive design, and a professional layout for services, testimonials, and contact.
 
-## ✨ Features
-- Responsive layout using Flexbox
-- Smooth scrolling and transitions
-- Styled using custom CSS
-- 3D embedded Spline object
-- Custom square overlay for design detail
+## Features
 
-## 🎯 Purpose
-I'm currently learning web development and design as a student. This is my **second practice project**, and I built it to improve my skills in:
-- HTML structure
-- Responsive CSS layout
-- Media queries for mobile responsiveness
-- Basic animations and transitions
+- **3D Interactive Robot** – Powered by Spline Viewer, the main hero includes a rotating 3D model.
+- **Fully Responsive** – Optimized for all screen sizes, with a mobile‑friendly hamburger menu.
+- **Loading Animation** – Smooth initial loader with a cyber‑themed spinner.
+- **Services Section** – Three core offerings (AI Integration, Custom Robotics, Maintenance & Support).
+- **Contact Form** – User‑friendly form for inquiries (front‑end only).
+- **Testimonials** – Client reviews with hover effects.
+- **Back‑to‑Top Button** – Dynamically appears on scroll.
+- **Dynamic Year in Footer** – Automatically updates the copyright year.
 
-## 💡 Technologies Used
+## Technologies Used
+
 - HTML5
-- CSS3
-- Spline (for 3D object embedding)
+- CSS3 (custom animations, gradients, glassmorphism)
+- JavaScript (interactivity, scroll animations, mobile menu)
+- [Spline Viewer](https://spline.design/) – 3D model integration
+- Font Awesome Icons
 
-## 📸 Preview
-![Uploading image.png…]()
+## How to Run
 
+1. Clone the repository:  
+   `git clone https://github.com/RohmaNadeem/cyberbots.git`
+2. Open `index.html` in any modern web browser.
 
-## 🧠 What I Learned
-- How to structure responsive layouts with Flexbox
-- How to use media queries effectively
-- How to integrate interactive 3D components
-- How to organize and push projects on GitHub
+## Live Demo
 
+*(Enable GitHub Pages in the repository settings to host this site live.)*  
+Once enabled, it will be available at:  
+`https://rohmanadeem.github.io/cyberbots/`
 
+## Project Structure
 
+```plaintext
+cyberbots/
+├── index.html
+├── style.css
+├── script.js
+├── images-and-icon/
+│   ├── sun.svg
+│   └── downarrow.svg
+└── README.md
+## Future Improvements
+
+- Add actual form submission backend (e.g., using Formspree or a simple PHP script).
+- Implement a light/dark theme switcher (already wired in JS).
+- Optimize the 3D model for better performance on mobile devices.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rohma-nadeem-25b041382/)
+- [GitHub](https://github.com/RohmaNadeem)
